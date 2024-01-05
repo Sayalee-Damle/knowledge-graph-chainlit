@@ -8,7 +8,7 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.12"
 chainlit = {path = "../knowledge_graph_chainlit/chainlit-1.0.0rc3-py3-none-any.whl", develop = true}
-knowledge-graph = {path = "../knowledge_graph/dist/knowledge_graph-0.1.0-py3-none-any.whl", develop = true}
+knowledge-graph = {path = "../knowledge_graph/dist/knowledge_graph-0.1.2-py3-none-any.whl", develop = true}
 openai = "^1.6.1"
 langchain = "^0.0.354"
 
